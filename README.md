@@ -2,7 +2,7 @@
 
 front-end engineer who builds things with React, TypeScript, and an unreasonable amount of coffee
 
-currently creating value at Sombra, shipping clean, accessible, sometimes even bug-free code.
+currently creating value at Sombra, shipping clean, accessible, sometimes even bug-free code
 
 ---
 
@@ -15,6 +15,7 @@ currently creating value at Sombra, shipping clean, accessible, sometimes even b
 - just how nerdy can i be about making coffee
 - board games
 - which code editor i use (spoiler: it's neovim!)
+- what is my favourite html element (it's `<marquee>`! don't worry, i _always_ make it accessible for users with `prefers-reduced-motion`)
 
 ---
 
