@@ -6,7 +6,7 @@ currently creating value at Sombra, shipping clean, accessible, sometimes even b
 
 ---
 
-### 🛠 tech that makes me happy
+### tech that makes me happy
 `React` • `TypeScript` • `Next.js` • `GraphQL` • `Vite`
 
 ---
