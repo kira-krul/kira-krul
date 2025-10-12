@@ -1,16 +1,21 @@
-## Hi there 👋
+# hi, i’m kira 👋
 
-<!--
-**kira-krul/kira-krul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+front-end engineer who builds things with React, TypeScript, and an unreasonable amount of coffee
 
-Here are some ideas to get you started:
+currently creating value at Sombra, shipping clean, accessible, sometimes even bug-free code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 tech that makes me happy
+`React` • `TypeScript` • `Next.js` • `GraphQL` • `Vite`
+
+---
+
+### ask me about
+- just how nerdy can i be about making coffee
+- board games
+- which code editor i use (spoiler: it's neovim!)
+
+---
+
+[linked-in](www.linkedin.com/in/kira-krul-316629129) • [email](mailto:kira.krul20@gmail.com)
