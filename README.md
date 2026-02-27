@@ -2,7 +2,7 @@
 
 front-end engineer who builds things with React, TypeScript, and an unreasonable amount of coffee
 
-currently creating value at Sombra, shipping clean, accessible, sometimes even bug-free code
+setting mircro trends at Trend Micro, shipping clean, accessible, sometimes even bug-free code
 
 ---
 
