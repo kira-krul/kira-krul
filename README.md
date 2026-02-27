@@ -19,4 +19,4 @@ setting mircro trends at Trend Micro, shipping clean, accessible, sometimes even
 
 ---
 
-[linked-in](https://www.linkedin.com/in/kira-krul) • [email](mailto:kira.krul20@gmail.com)
+[linked-in](https://www.linkedin.com/in/kira-krul/) • [email](mailto:kira.krul20@gmail.com)
